@@ -1,0 +1,59 @@
+*{
+    background-color: rgb(199, 208, 236);
+}
+
+img{
+    width: 1295px;
+}
+
+h1{
+    letter-spacing: 3px;
+}
+
+table{
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.header{
+    background-color: rgb(238, 199, 222);
+    padding: 30px
+    ;
+    border-radius: 10px;
+    width: 50%;
+    margin: auto;
+    font-family: "Georgia"
+}
+
+#profile {
+    max-width: 20%;
+    border-radius: 50%;
+}
+
+.titulo{
+    margin-top: 20px;
+    text-align: center;
+    float: right;
+}
+
+#nombre{
+    letter-spacing: 5px;
+    font-weight: 800;
+    font-size: larger;
+}
+
+.text {
+    text-align: center;
+    font-family: "Georgia"
+}
+
+.links{
+    color: black;
+    padding-inline-end: 1cm;
+}
+
+.projimg{
+    width: 500px;
+    display: block;
+    margin: auto;
+}
